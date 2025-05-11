@@ -1,0 +1,9 @@
+{
+  "id_num": 101,
+  "name": "Alice Wonderland",
+  "email": "alice@example.com",
+  "isVerified": true,
+  "balance": 123.45,
+  "notes": null
+}
+
