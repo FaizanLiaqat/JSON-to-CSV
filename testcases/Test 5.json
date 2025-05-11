@@ -1,0 +1,7 @@
+{
+    "user": "Bob",
+    "active": true,
+    "score": 42.5,
+    "email": null,
+    "tags": ["new", "vip"]
+}
