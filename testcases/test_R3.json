@@ -1,0 +1,6 @@
+{
+    "report_id": "rep789",
+    "title": "Sales Q3",
+    "metrics": [150.2, 200.0, 175.5],
+    "reviewers": ["John D.", "Jane S."]
+}

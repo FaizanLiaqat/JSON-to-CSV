@@ -1,0 +1,18 @@
+{
+    "id": "dept001",
+    "name": "Engineering",
+    "location": "Building A",
+    "employees": [
+      {
+        "emp_id": "eng01",
+        "emp_name": "Alice",
+        "role": "Developer"
+      },
+      {
+        "emp_id": "eng02",
+        "emp_name": "Bob",
+        "role": "Sr. Developer"
+      }
+    ],
+    "budget": 100000.50
+  }
